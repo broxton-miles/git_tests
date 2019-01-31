@@ -17,4 +17,4 @@ email:
           - g++-5
           - python3
  script:
- python run_the_c_program.py
+ - python run_the_c_program.py
